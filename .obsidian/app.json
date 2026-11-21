@@ -1,1 +1,10 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "sync.sh",
+    "README.md"
+  ]
+}
